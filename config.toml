@@ -1,0 +1,10 @@
+baseurl = "http://kylechadha.com/"
+languageCode = "en-us"
+title = "Kyle Chadha"
+theme = "purehugo"
+Paginate = 10
+
+[params]
+  twitterName = "kylechadha"
+  githubName = "kylechadha"
+  description = "From my brain to yours."
