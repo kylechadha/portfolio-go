@@ -4,6 +4,7 @@ Description = "Description here"
 Tags = ["apple"]
 date = "2015-10-29T08:46:24-04:00"
 title = "This is a tagged and categorized post, my friends."
+draft = true
 
 +++
 

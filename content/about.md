@@ -9,6 +9,4 @@ I'm a full stack developer with a background in management consulting. Between t
 
 I currently spend my days playing with Go and a few other cool technologies (Nginx, Knockout, RabbitMQ, to name a few) at Makeable, an NYC based startup. Outside of work, I'm a city captain for Tea With Strangers (check us out at <a href="http://teawithstrangers.com" target="_blank">teawithstrangers.com</a>!) and enjoy hacking on my own Go <a href="https://github.com/kylechadha?tab=repositories" target="_blank">side projects</a>. 
 
-<img src="/rwanda_cover_photo.jpg" title="A few friends and I, in Kigali, Rwanda." class="pure-img">
-
-
+<img src="/consulting_in_rwanda.jpg" title="A few friends and I, in Kigali, Rwanda." class="pure-img">
