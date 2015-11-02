@@ -24,20 +24,5 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 </description>
     </item>
     
-    <item>
-      <title>This is a test blog post, my friends.</title>
-      <link>http://localhost:1313/post/welcome/</link>
-      <pubDate>Thu, 22 Oct 2015 20:55:47 -0400</pubDate>
-      
-      <guid>http://localhost:1313/post/welcome/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

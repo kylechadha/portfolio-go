@@ -32,26 +32,13 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
       <guid>http://localhost:1313/about/</guid>
       <description>
 
-&lt;h2 id=&#34;hi-i-m-kyle:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Hi I&amp;rsquo;m Kyle&lt;/h2&gt;
+&lt;h2 id=&#34;hi-there-i-m-kyle:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Hi there, I&amp;rsquo;m Kyle&lt;/h2&gt;
 
-&lt;h3 id=&#34;and-here-s-a-subheading:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;And here&amp;rsquo;s a subheading.&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m a full stack developer with a background in management consulting. Between the two, I&amp;rsquo;ve been able to work on a lot of cool things (and in a lot of cool places!), and I&amp;rsquo;m hungry for more.&lt;/p&gt;
 
-&lt;p&gt;Some content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>This is a test blog post, my friends.</title>
-      <link>http://localhost:1313/post/welcome/</link>
-      <pubDate>Thu, 22 Oct 2015 20:55:47 -0400</pubDate>
-      
-      <guid>http://localhost:1313/post/welcome/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;I currently spend my days playing with Go and a few other cool technologies (Nginx, Knockout, RabbitMQ, to name a few) at Makeable, an NYC based startup. Outside of work, I&amp;rsquo;m a city captain for Tea With Strangers (check us out at &lt;a href=&#34;http://teawithstrangers.com&#34; target=&#34;_blank&#34;&gt;teawithstrangers.com&lt;/a&gt;!) and enjoy hacking on my own Go &lt;a href=&#34;https://github.com/kylechadha?tab=repositories&#34; target=&#34;_blank&#34;&gt;side projects&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/rwanda_cover_photo.jpg&#34; title=&#34;A few friends and I, in Kigali, Rwanda.&#34; class=&#34;pure-img&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
