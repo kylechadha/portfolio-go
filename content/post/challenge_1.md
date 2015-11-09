@@ -29,7 +29,8 @@ Admittedly, this challenge is a bit mundane, since it has only to do with buildi
 
  - Meditating -- studying and practicing meditation on a daily basis
  - Becoming a better chef -- cooking 4 meals worth of food every Sunday
- - Decreasing stimulus -- removing TV, movies, etc. from my life
+ - Photography -- getting a DSLR and learning the basics of photography and composition
  - Reading -- reading for 60 minutes before bed
+ - Decreasing stimulus -- cutting out TV, movies, etc. from my life
  - Removing sugar from my diet
  - Learning Piano? Tango? French?
