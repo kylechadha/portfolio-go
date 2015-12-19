@@ -11,7 +11,7 @@ I'm in LA visiting my sister and sans car right now. I was planning to meet my b
 
 So I set off. It was a nice day. Pleasant. At first I didn't think too much of it. But then it began to dawn on me. How picturesque the bike path is along the beach. How calming the ocean and the palm trees and the sand and the gentle ticking of the bike chain are. How much I love riding bikes... feeling the breeze of movement cool you down in equal parts as your heart rate rises. How I had felt this feeling a thousand times in my childhood -- riding around my neighborhood, on the way to summer school, and to my high school sweetheart's house, long before I had a car. And I realized I hadn't felt this feeling in a long, long time. When the scenery moves at a snail's pace past you, it's not a thing going by, but a thing that you are part of.
 
-<img src="/post/biking_marina_del_rey.jpg" title="Taking a break along the marina" class="pure-img">
+<!-- <img src="/post/biking_marina_del_rey.jpg" title="Taking a break along the marina" class="pure-img"> -->
 
 And it all started to break down. I love riding bikes. I love being outdoors. I love watching the wind ripple through the palm trees and the sound of the birds above me. I love the simplicity and the familiarity, the freedom. I love the aimless moments when I'm not doing anything in particular. Not endlessly thinking, planning, problem solving, yearning, searching ... just being. These are the days that make life worth living. A day like this makes the thousand before it worthwhile. A day like this gives meaning to life, gives it happiness. It creates a sense of peace and tranquility that can not be bought or faked. 
 
