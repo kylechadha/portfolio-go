@@ -20,8 +20,6 @@ And it reminded me that all that I do, I do so that I can have days like this. D
 
 After all, you can have all those things, but unless they bring you closer to days like this, they really are pointless. They are not goals in and of themselves. Sometimes I forget that. And if I think hard about it, I don't need much to be happy. Just a bike and a free day.
 
-I think I'll go for a bike ride today, too.
-
 <div class="pure-video">
   <iframe src="//player.vimeo.com/video/149445602" allowfullscreen frameborder="0"></iframe>
 </div>
