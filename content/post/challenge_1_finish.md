@@ -2,7 +2,7 @@
 Categories = ["challenges"]
 Description = "My first challenge -- waking up on a strict schedule (630am) every day for two months."
 Tags = []
-date = "2015-12-28T10:32:14-08:00"
+date = "2015-12-31T8:32:14-05:00"
 title = "Challenge #1 - Waking up at 630am - Finish"
 
 +++
