@@ -4,8 +4,11 @@ title = "Kyle Chadha"
 theme = "purehugo"
 Paginate = 10
 disqusShortname = "kylechadha"
+DisqusShortname = "kylechadha"
 
 [params]
+  disqusShortname = "kylechadha"
+  DisqusShortname = "kylechadha"
   twitterName = "kylechadha"
   githubName = "kylechadha"
   description = "From my brain to yours."
