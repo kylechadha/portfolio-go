@@ -1,8 +1,8 @@
 +++
 Categories = ["thoughts"]
-Description = "How do you get better as a new coder?"
+Description = "How do you get better as a new coder? Here are 5 ways that helped me accelerate my growth as a new coder."
 date = "2016-03-07T06:41:31-05:00"
-title = "Thoughts on Learning as a New Coder"
+title = "Learning to Learn as a New Coder"
 
 +++
 
@@ -24,18 +24,18 @@ This is recommended everywhere -- it's almost the classic cop out advice when pe
 
 Should you try to read the source code for Docker or some other massive open source project? No, probably not. It will be nebulous and intimidating, and unless you spend days on the endeavor (or are already quite gifted), chances are you won't have the context to learn much beyond coding style.
 
-But you should definitely try to read other people's code when it relates to what you're working on. If you're implementing a new feature at work and are having trouble with <a href="http://nathanleclaire.com/blog/2013/11/30/fear-and-loathing-with-golang-and-angular-js" target="_blank">how Go's HTTP handler interacts with Angular</a>, read the Go source code. You'll learn how the things you use actually work, discover new patterns, and (if it is high quality open source,) learn how to write code idiomatically and effectively for other's to understand.
+But you should definitely try to read other people's code when it relates to what you're working on. If you're implementing a new feature at work and are having trouble with <a href="http://nathanleclaire.com/blog/2013/11/30/fear-and-loathing-with-golang-and-angular-js" target="_blank">how Go's HTTP handler interacts with Angular</a>, read the Go source code. You'll learn how the things you use actually work, discover new patterns, and (if it's high quality open source code,) learn how to write code idiomatically and in a manner that's easy for others to understand as well.
 
 Another great opportunity to read code is where your code touches other's in a code base. Updating something in a controller? Explore how the router and handlers work so you know what type of data you'll be receiving. Using someone else's service? Read the service. What edge cases do they handle for, that you should be thinking about as well?
 
-One last thing worth mentioning here is that reading code really means reading _and playing with_ code. You have to get it up and running, step through it with a debugger, use print statements, whatever, to actually understand how data flows through the application.
+One last thing worth mentioning here is that reading code really means reading _and playing with_ code. You have to get it up and running, step through it with a debugger, use print statements, whatever, to actually understand how the data flows through the application.
 
 ## #3 Remember Your ABC's: Always Be Coding
 This one is sort of obvious, but in case it isn't clear, this is the meat of the learning process. Everything else you do (including #2 and #1) support this. If you aren't actually coding, you're in some theoretical land, and you'll only go so far before what you're trying to learn is too far ahead of the mental model you hold in your head.
 
 There are a myriad of ways to do this. Build side projects, go to hackathons, work on open source, etc. It doesn't really matter what, but (assuming you actually like coding) code as much as possible. In fact, code all the time. Code on anything, but just Always Be Coding.
 
-PS. I got this one <a href="https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2" target="_blank">here</a>, a great article with general guidance on how to be a successful software engineer.
+PS. I got this one <a href="https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2" target="_blank">here</a>.
 
 ## #2 Watch Talks
 Alright, now we're getting up to some heavy hitters. Watching talks has been huge in my education as a coder, and it's without a doubt what propelled me from a mediocre developer to a competent one. Talks are amazing. They are free education. And best of all, they're bite sized.
@@ -46,7 +46,7 @@ Then, if you want to start using the technology in earnest, you work your way up
 
 I could harp on this forever, but it's really simple, watch a ton of talks. Watch 3-4 a week. You'll learn more in an hour than in a day of googling.
 
-Here's the best list I've found, it's a gold mine of conceptual knowledge: <a href="https://github.com/hellerve/programming-talks" target="_blank">https://github.com/hellerve/programming-talks</a>.
+Here's the best list I've found, it's a gold mine of conceptual knowledge: https://github.com/hellerve/programming-talks.
 
 ## #1 Follow your bliss
 I asked my friend <a href="https://twitter.com/caelestisca" target="_blank">@caelestisca</a> once for advice on how I should try to learn Go. She concluded her massive list of practical guidance with "As far as one [thing] being the MOST important, I am going to sound so hippie here, but follow your bliss, whatever gets your happy curious, follow it...". I think this is some of the best advice on software (and learning) I've ever received. Let's take a minute to think about it.
