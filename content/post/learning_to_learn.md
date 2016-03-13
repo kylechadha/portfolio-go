@@ -57,6 +57,6 @@ If you're naturally curious about something, it means what you're learning is on
 
 So when your curiosity gets piqued, explore it _aggressively_. Follow it wherever it takes you. You almost certainly will end up in a rabbit hole, but it'll have been a wild ride and you'll be amazed at how much you learned.
 
-Lastly, the converse is also true: If you get stuck or are starting to lose passion -- chances are you aren't curious about what you're working on. Step back, clear your mind, and remember to _follow your bliss_.
+Lastly, the converse is also true: If you get stuck or are starting to lose passion -- chances are you aren't curious enough about what you're working on. Step back, clear your mind, and _follow your bliss_.
 
 Happy coding.
