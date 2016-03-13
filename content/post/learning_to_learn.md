@@ -22,7 +22,7 @@ The best advice I received on the subject is that the best developers are T-Shap
 This is the model I subscribe to when it comes to my own learning. I love to learn about things that are tangential to my work, but I always prioritize and seek depth. The model you believe in might be different, but the takeaway here is to **understand what your goals are** and focus on them.
 
 ## #4 Read Other People's Code
-This is recommended everywhere -- it's almost the classic cop out advice when people don't know what else to say... but there's no denying its validity. So let me explain how it works.
+This is recommended everywhere -- it's almost the classic cop out advice when people don't know what else to say, but there's no denying its effectiveness.
 
 Should you try to read the source code for Docker or some other massive open source project? No, probably not. It will be nebulous and intimidating, and unless you spend days on the endeavor (or are already quite gifted), chances are you won't have the context to learn much beyond coding style.
 
@@ -30,7 +30,7 @@ But you should definitely try to read other people's code when it relates to wha
 
 Another great opportunity to read code is where your code touches other's in a code base. Updating something in a controller? Explore how the router and handlers work. Using someone else's service? Read the service. What edge cases do they handle for, that you should be thinking about as well?
 
-One last thing worth mentioning here is that reading code really means reading _and playing with_ code. You have to get it up and running to actually understand how data flows through the application. The end goal should be a functioning mental model, and that's hard to achieve by reading alone.
+One last thing worth mentioning here is that reading code really means reading _and playing with_ code. You have to get it up and running to actually understand how data flows through the application. **The end goal should be a functioning mental model**, and that's hard to achieve by reading alone.
 
 ## #3 Remember Your ABC's: Always Be Coding
 This one is sort of obvious, but in case it isn't clear, this is the meat of the learning process. Everything else you do (including #2 and #1) support this. If you aren't actually coding, you're in some theoretical land, and you'll only go so far before what you're trying to learn is too far ahead of the mental models you hold in your head.
@@ -44,7 +44,7 @@ Alright, now we're getting up to some heavy hitters. Watching talks has been hug
 
 Pretty much every technology, tool, and subject matter area out there has it's own conference and meetups. Each year the community is going to push out (at least) 10-15 solid talks ranging from beginner "why do we use this and how does it work" to advanced "best practices using X". So when you want to learn something new ("Hrm, maybe I should use React on my next side project") the first thing you should do is watch a well thought out introductory talk on the subject. I tend to prefer something from the <a href="https://youtu.be/XxVg_s8xAms" target="_blank">guys who actually wrote it</a>. You'll get a high level but comprehensive overview in ~45 minutes.
 
-Then, if you start to use the technology in earnest, you work your way up the talk chain of complexity. The best is when you're stuck on something and you find a talk that addresses that problem space directly. But even if the talk has nothing to do with what you're working on, you'll be amazed at how much you learn about that technology (tips, tricks, pitfalls and patterns) by watching even tangential talks. Best of all, you learn what you _don't_ know, and that you might want to, by seeing other devs using the technology and sharing their experiences.
+Then, if you start to use the technology in earnest, you work your way up the talk chain of complexity. The best is when you're stuck on something and you find a talk that addresses that problem space directly. But even if the talk has nothing to do with what you're working on, you'll be amazed at how much you learn about that technology (tips, tricks, pitfalls and patterns) by watching even tangential talks. **Best of all, you learn what you _don't_ know**, and that you might want to, by seeing other devs using the technology and sharing their experiences.
 
 I could harp on this forever, but it's really simple, watch a ton of talks. Watch 3-4 a week. You'll learn more in an hour than in a day of googling.
 
@@ -55,7 +55,7 @@ I asked my friend <a href="https://twitter.com/caelestisca" target="_blank">@cae
 
 If you're naturally curious about something, it means what you're learning is on the edge of what you already know. This is huge -- since you understand the importance of the subject matter, you can logically connect it to your existing body of knowledge much easier than something that you think you should know but don't yet have a "feeling" for. Your mind and body are in sync, and the return on effort is huge because the speed at which you move through the material is increased significantly.
 
-So when your curiosity gets piqued, explore it _aggressively_. Follow it wherever it takes you. You almost certainly will end up in a rabbit hole, but it'll have been a wild ride and you'll be amazed at how much you learned.
+**So when your curiosity gets piqued, explore it _aggressively_**. Follow it wherever it takes you. You almost certainly will end up in a rabbit hole, but it'll have been a wild ride and you'll be amazed at how much you learned.
 
 Lastly, the converse is also true: If you get stuck or are starting to lose passion -- chances are you aren't curious enough about what you're working on. Step back, clear your mind, and _follow your bliss_.
 
